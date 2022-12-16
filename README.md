@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **God of war ragnarok**
 | :label: Tecnologias | html, css
-| :rocket: URL         | https://vercel.com/vvuc/ragnarok-v1-0
+| :rocket: URL         | https://ragnarok2-0.vercel.app/
 | :fire: Desafio     | **
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
