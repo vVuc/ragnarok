@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | **
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://chat.openai.com/chat)
+![](https://i.imgur.com/DTvQ9GQ.jpg)
 
 
 ## Detalhes do projeto
